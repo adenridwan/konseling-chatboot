@@ -8,7 +8,7 @@ Pilih gaya respon sesuai mood: **Psikologi, Islami, Romantic, atau Humor** ✨
 ---
 
 ## 🖼️ Tampilan Aplikasi
-![Curhat AI Chatbot](ecef9df4-8496-4870-b106-047105742cb5.png)
+![Curhat AI Chatbot]([ecef9df4-8496-4870-b106-047105742cb5](https://github.com/adenridwan/konseling-chatboot/blob/main/konseling-chaatbot.png)
 
 ---
 
